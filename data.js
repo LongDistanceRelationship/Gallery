@@ -1,5 +1,4 @@
 const IMAGE_LIST = [
-  0.jpeg
   {
     filename: "0.jpg",
     title: "Info",
