@@ -1,6 +1,6 @@
 const IMAGE_LIST = [
   {
-    filename: "0.jpg",
+    filename: "0.jpeg",
     title: "Info",
     text: "Info?",
     size: "medium",
