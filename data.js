@@ -1,12 +1,5 @@
 const IMAGE_LIST = [
   {
-    filename: "0.jpg",
-    title: "Info",
-    text: "Info?",
-    size: "medium",
-    position: "right",
-  },
-  {
     filename: "1.jpg",
     title: "Taipei, Taiwan  /  Lat 25.047760  /  Long 121.531850",
     text: "Shall we begin with the beginning?",
